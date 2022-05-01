@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("https://images.pexels.com/photos/1400315/pexels-photo-1400315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
